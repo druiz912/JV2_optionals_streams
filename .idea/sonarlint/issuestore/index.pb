@@ -1,0 +1,5 @@
+
+9
+	datos.txt,d\7\d707995cff40b7b934a9c026a99f2a997ee36c24
+>
+Ejercicio1.iml,f\3\f3b85535b3bb790e9f118da0923754400c2d3df8
